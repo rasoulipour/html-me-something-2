@@ -1,0 +1,74 @@
+body {
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: #f2f2f2;
+	font-size: 62.5%;
+	color: #444
+
+}
+
+header,
+main,
+footer {
+	background-color: #f2f2f2;
+	font-size: 1.6em;
+
+}
+
+header img{
+	text-align: center;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+	font-size: 3em;
+	padding: 2em 0;
+}
+
+h1, h2, h3 {
+	font-family: "trajan pro";
+	font-weight: bold;
+	margin: 0;
+}
+
+h2 {
+	font-size: 1.4em;
+	padding: 60px 0 20px 0;
+}
+
+section {
+	padding: 20px;
+}
+
+p {
+	padding: 1em 0;
+	font-family: Baskerville;
+	font-size: 1.3em;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+
+header li{
+
+	font-family: Baskerville;
+	font-size: 1.3em;
+}
+
+header ol{
+	padding: 0 0 0 100px;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
